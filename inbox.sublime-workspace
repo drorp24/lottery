@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"FET",
+				"FETCH_SURVEYS"
+			],
+			[
+				"un",
+				"uniqueEvents"
+			],
+			[
+				"form",
+				"formFields"
+			],
+			[
+				"invalid",
+				"invalidEmails"
+			],
+			[
+				"person",
+				"personalize"
+			],
+			[
+				"addC",
+				"addClickTracking"
+			],
+			[
+				"recip",
+				"recipientSchema"
+			],
+			[
+				"redu",
+				"reducThunk"
+			],
+			[
+				"user",
+				"userSchema"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 201,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle li",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"color ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 374.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/drorpoliak/projects/inbox"
+	],
+	"file_history":
+	[
+		"/Users/drorpoliak/projects/crymbo/config/dev.js",
+		"/Users/drorpoliak/projects/crymbo/client/src/components/surveys/SurveyFormReview.js",
+		"/Users/drorpoliak/projects/crymbo/client/src/actions/index.js",
+		"/Users/drorpoliak/projects/crymbo/node_modules/esrecurse/.babelrc",
+		"/Users/drorpoliak/projects/crymbo/node_modules/search-params/tsconfig.json",
+		"/Users/drorpoliak/projects/crymbo/client/src/components/Header.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/reducers/surveysReducer.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/components/Dashboard.js",
+		"/Users/drorpoliak/projects/fullstack/server/routes/surveyRoutes.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/README.md",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/index.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/components/surveys/SurveyFormReview.js",
+		"/Users/drorpoliak/projects/fullstack/server/package.json",
+		"/Users/drorpoliak/projects/fullstack/server/services/emailTemplates/surveyTemplate.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/components/surveys/SurveyForm.js",
+		"/Users/drorpoliak/projects/fullstack/server/sendgrid_webhook.sh",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/actions/index.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/components/surveys/formFields.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/components/surveys/SurveyNew.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/components/surveys/SurveyField.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/utils/validateEmails.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/node_modules/react-scripts/config/webpack.config.dev.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/components/App.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/reducers/index.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/public/index.html",
+		"/Users/drorpoliak/projects/fullstack/server/services/Mailer.js",
+		"/Users/drorpoliak/projects/fullstack/server/config/dev.js",
+		"/Users/drorpoliak/projects/fullstack/server/config/prod.js",
+		"/Users/drorpoliak/projects/fullstack/server/middlewares/requireCredits.js",
+		"/Users/drorpoliak/projects/fullstack/server/index.js",
+		"/Users/drorpoliak/projects/fullstack/server/models/Survey.js",
+		"/Users/drorpoliak/projects/fullstack/server/models/Recipient.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/components/Header.js",
+		"/Users/drorpoliak/projects/fullstack/server/routes/billingRoutes.js",
+		"/Users/drorpoliak/projects/fullstack/server/middlewares/requireLogin.js",
+		"/Users/drorpoliak/projects/fullstack/server/models/User.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/components/Payments.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/components/Landing.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/reducers/authReducer.js",
+		"/Users/drorpoliak/projects/fullstack/server/routes/authRoutes.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/actions/types.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/package.json",
+		"/Users/drorpoliak/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/drorpoliak/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/drorpoliak/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/drorpoliak/Library/Application Support/Sublime Text 3/Packages/JsPrettier/CHANGELOG.md",
+		"/Users/drorpoliak/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/drorpoliak/projects/fullstack/server/.eslintrc.json",
+		"/Users/drorpoliak/projects/fullstack/server/.gitignore",
+		"/Users/drorpoliak/projects/fullstack/server/package-lock.json",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/.eslintrc.json",
+		"/Users/drorpoliak/projects/fullstack/server/services/passport.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/src/App.js",
+		"/Users/drorpoliak/projects/fullstack/server/client/build/index.html",
+		"/Users/drorpoliak/projects/fullstack/server/config/keys.js",
+		"/Users/drorpoliak/Library/Application Support/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Users/drorpoliak/Library/Application Support/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"/Users/drorpoliak/projects/my-app/src/App.js",
+		"/Users/drorpoliak/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/app/Console/Commands/Cambiu/SyncExchanges.php",
+		"/Users/drorpoliak/Google Drive/cambiu/Product/API/Code/apiGateway-js-sdk/README.md",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/app/Console/Commands/Cambiu/Scripts/SyncRates.js",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/app/Console/Commands/Cambiu/Scripts/ApiExchanges.js",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/package.json",
+		"/Users/drorpoliak/Downloads/CG_REDIRECT_SERVER_SIDE_EXAMPLES (1)/J106 - CG Redirect/PHP/createTransaction.php",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/app/Http/routes.php",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/database/put_aside/2016_08_24_121235_upload_users_sample_data.php",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/database/migrations/2016_08_26_071404_create_user_exchange_rates.php",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/database/migrations/2016_08_24_121235_upload_users_sample_data 2.php",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/public/web.config",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/app/Console/Commands/Cambiu/SyncRates.php",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/database/seeds/DatabaseSeeder.php",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/config/database.php",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/database/factories/ModelFactory.php",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/drorpoliak/projects/ratefeed/cambiu/composer.json",
+		"/Users/drorpoliak/Downloads/flag-icon-css-master 2/css/flag-icon.css",
+		"//Users/drorpoliak/projects/starwars-phpapp/.env.example"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "inbox.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".babelrc",
+				"node_modules/esrecurse/.babelrc"
+			],
+			[
+				"tsconfig",
+				"node_modules/search-params/tsconfig.json"
+			],
+			[
+				"surveylist",
+				"client/src/components/surveys/SurveyList.js"
+			],
+			[
+				"surveyform",
+				"client/src/components/surveys/SurveyFormReview.js"
+			],
+			[
+				"app",
+				"client/src/components/App.js"
+			],
+			[
+				"webpack",
+				"client/node_modules/react-scripts/config/webpack.config.dev.js"
+			],
+			[
+				"inde",
+				"index.js"
+			],
+			[
+				"app.js",
+				"client/src/components/App.js"
+			],
+			[
+				".",
+				".gitignore"
+			],
+			[
+				".eslintrc",
+				".eslintrc.json"
+			],
+			[
+				"",
+				"client/src/reducers/index.js"
+			],
+			[
+				"index",
+				"client/src/index.js"
+			],
+			[
+				"passpo",
+				"services/passport.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/crymbo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
